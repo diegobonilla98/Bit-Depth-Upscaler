@@ -266,10 +266,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{bitdepthupscaler2024,
+@misc{bitdepthupscaler2024,
   title={Safe Perceptual Dequantization: Reconstructing 16-bit Images from 8-bit Inputs},
-  author={Your Name},
-  journal={arXiv preprint},
+  author={Diego Bonilla Salvador},
+  url = {https://github.com/diegobonilla98/Bit-Depth-Upscaler},
   year={2024}
 }
 ```
@@ -280,4 +280,5 @@ If you use this work in your research, please cite:
 - PyTorch team for the deep learning framework
 - Accelerate library for training optimization
 - The open-source computer vision community
+
 
